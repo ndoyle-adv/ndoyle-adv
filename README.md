@@ -1,0 +1,7 @@
+- 👋 Hi, I’m **@ndoyle-adv**, aka **@doylean**. I'm a data analyst at Advance Local who tinkers with code on the side, usually in a way that gives myself massive headaches later on. But hey, I'm learning!
+- 👀 I’m interested in all kinda of things, including wood working, sewing, weightlifting, running, paper crafting, vinyl work (anything on a Cricut!), tennis, sci-fi, gaming (especially survival games), baking...
+- 🌱 I’m currently learning more about data science and database architecture, and trying to learn some Python on the side. For funsies.
+- 💞️ I’m looking to collaborate on anything that looks cool!
+- 📫 You can reach me at ndoyle@advancelocal.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact(s): I'm a former crime reporter from the southern U.S. who used to run a dog treat business on the side. Because apparently I can't stick to one career. 😂
